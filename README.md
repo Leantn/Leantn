@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=oracleoracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 
 <!--
